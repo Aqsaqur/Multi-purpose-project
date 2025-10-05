@@ -18,3 +18,15 @@ Send emails 📩
 
 All of these are different functions, but they reside within one project.
 That’s why it’s called multi-purpose.
+
+Why Build a Multi-Purpose Project?
+
+Because it helps you:
+
+🧰 Practice many Python skills in one project (GUI, APIs, databases, file handling, etc.)
+
+📁 Build a portfolio project that looks professional
+
+💡 Learn how to make modular and scalable Python apps
+
+🚀 Add extra features anytime
